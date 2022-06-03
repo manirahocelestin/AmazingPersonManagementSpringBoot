@@ -1,7 +1,7 @@
 package com.manager.information.service;
 
-import com.manager.information.ActivityType;
 import com.manager.information.domain.Activity;
+import com.manager.information.domain.ActivityType;
 
 import java.util.Date;
 import java.util.List;

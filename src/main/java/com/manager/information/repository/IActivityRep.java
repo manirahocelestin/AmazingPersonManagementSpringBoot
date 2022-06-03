@@ -1,7 +1,7 @@
 package com.manager.information.repository;
 
-import com.manager.information.ActivityType;
 import com.manager.information.domain.Activity;
+import com.manager.information.domain.ActivityType;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
